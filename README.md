@@ -1,6 +1,6 @@
 # macro-finance-research
 
-A collection of R and Python projects from my coursework in economics and finance at Georgetown University. Topics include panel data econometrics, probit modeling, machine learning, and financial markets analysis.
+A collection of R and Python projects from my coursework in economics and finance at Georgetown & La Salle University. Topics include panel data econometrics, probit modeling, machine learning, and financial markets analysis.
 
 ## R Projects
 | Folder | Description |
